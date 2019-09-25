@@ -1,11 +1,4 @@
-## 🛍️ Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
 
-<p align="center">
-
-  <img src="./doc/react-shopping-cart-min.gif">
-</p>
-
-## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
 This simple shopping cart prototype shows how React components and Redux can be used to build a
 friendly user experience with instant visual updates and scaleable code in ecommerce applications.
@@ -19,11 +12,6 @@ friendly user experience with instant visual updates and scaleable code in ecomm
 - Unit tests, integration tests and e2e testing
 - Responsive design
 
-## Getting started
-
-Try playing with the code on CodeSandbox :)
-
-[![Edit app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/74rykw70qq)
 
 ## Build/Run
 
