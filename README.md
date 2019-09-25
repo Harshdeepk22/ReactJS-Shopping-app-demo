@@ -3,6 +3,11 @@
 This simple shopping cart prototype shows how React components and Redux can be used to build a
 friendly user experience with instant visual updates and scaleable code in ecommerce applications.
 
+<p align="center">
+
+  <img src="./doc/react-shopping-cart-min.gif">
+</p>
+
 #### Features
 
 - Add and remove products from the floating cart
